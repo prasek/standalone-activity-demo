@@ -1,0 +1,2 @@
+# standalone-activity-demo
+demo
