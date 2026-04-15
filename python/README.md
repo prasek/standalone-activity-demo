@@ -58,12 +58,12 @@ uv sync
 
 The Temporal UI will be available at http://localhost:8233.
 
-**3. Start the worker** (in a separate terminal):
+**3. Start the worker** (in a separate terminal in the `python` subfolder):
 ```bash
 uv run python worker.py
 ```
 
-**4. Run the starter:**
+**4. Run the starter:** (in a separate terminal in the `python` subfolder
 ```bash
 uv run python starter.py
 ```
